@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ReadingComprehensionTest</string>
+    <string name="title_activity_story_test">StoryTest</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+    <string name="story1">“Don’t cry ‘wolf’ when there’s no wolf boy!”, they said angrily and left. The boy just laughed at them.
+        After a while, he got bored and cried ‘wolf!’ again, fooling the villagers a second time.
+        The angry villagers warned the boy a second time and left. The boy continued watching the flock.
+        After a while, he saw a real wolf and cried loudly, “Wolf! Please help! The wolf is chasing the sheep. Help!”</string>
+</resources>

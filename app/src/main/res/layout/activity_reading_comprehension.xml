@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ReadingComprehension.ReadingComprehension"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Number of Questionnaire"/>
+
+    <Button
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:text="10 Questions"
+        android:id="@+id/ten_qst"/>
+
+    <Button
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:text="20 Questions"
+        android:id="@+id/twen_qst"/>
+
+    <Button
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:text="30 Questions"
+        android:id="@+id/thir_qst"
+        android:visibility="gone"/>
+
+</LinearLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Story">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#1A364E">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="“Don’t cry ‘wolf’ when there’s no wolf boy!”,
+they said angrily and left. The boy just laughed at them.After a while,
+he got bored and cried ‘wolf!’ again, fooling the villagers a second time.
+The angry villagers warned the boy a second time and left. The boy continued watching the flock.
+After a while, he saw a real wolf and cried loudly, “Wolf! Please help! The wolf is chasing the sheep. Help!”"
+            android:textColor="@color/white"
+            android:textSize="16dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginTop="100dp"
+            android:justificationMode="inter_word"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"/>
+    </LinearLayout>
+
+
+</FrameLayout>
